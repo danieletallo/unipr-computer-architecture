@@ -1,2 +1,2 @@
 # unipr-computer-architecture
- Notes for the subject "Computer Architecture", post partial exam
+UNIPR - Notes for the subject "Computer Architecture", post partial exam
